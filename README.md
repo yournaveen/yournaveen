@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nacodeofficial@gmail.com**
 
-- ⚡ Fun fact **It is impossible to print Hello world as a coding**
+- ⚡ Fun fact **It is impossible to print Hello world as a coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
